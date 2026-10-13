@@ -29,11 +29,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/randeep-singh88) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:randeeprajpal9@gmail.com)
 
----
-
-<p align="center">
-  <a href="https://hits.sh/github.com/randeep88/">
-    <img src="https://hits.sh/github.com/randeep88.svg?style=for-the-badge&label=Profile%20Views&color=007ec6" alt="Profile Views" />
-  </a>
-</p>
-

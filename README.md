@@ -59,6 +59,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=randeep88&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/randeep88/">
+    <img src="https://hits.sh/github.com/randeep88.svg?style=for-the-badge&label=Profile%20Views&color=007ec6" alt="Profile Views" />
+  </a>
 </p>
 

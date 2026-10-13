@@ -8,8 +8,8 @@
 ## 🚀 Featured Projects
 
 <!-- ✏️ Add your best 3–4 -->
-- **[Project Name](https://github.com/randeep88/repo)**: one line on what it does + stack
-- **[Project Name](https://github.com/randeep88/repo)**: one line on what it does + stack
+- **Keystroq (https://github.com/randeep88/keystroq)**: 1v1 typing war with real time WPM and accuracy tracking using Next.js & WebSockets
+- **Kodehole (https://github.com/randeep88/kodehole)**: CLI-first code snapshot platform to store your precious code files on Cloudflare R2 with File Tree Visualization
 
 ---
 
